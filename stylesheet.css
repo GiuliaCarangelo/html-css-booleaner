@@ -19,5 +19,13 @@
     color: rgb(0, 179, 255);
 }
 
+h4 {
+    font-weight: lighter;
+    margin: 0;
+}
 
+.paragrafo-1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
 
