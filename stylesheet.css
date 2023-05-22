@@ -1,0 +1,23 @@
+.background {
+    height: 100px;
+    background-image: url(img/pattern.png);
+    background-color: #4ea0fd;
+}
+
+#logo {
+    border-top: 100px;
+    border-left: 50px;
+    width: 200px;
+}
+
+.sottotitolo {
+    color: grey;
+}
+
+#the-booleaner {
+    display: inline;
+    color: rgb(0, 179, 255);
+}
+
+
+
